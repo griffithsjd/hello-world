@@ -1,2 +1,3 @@
 # hello-world
-Yet another starter project
+
+Learning all about github
